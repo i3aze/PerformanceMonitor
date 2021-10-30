@@ -21,6 +21,7 @@ namespace PerfMonFormSecond
             Ping myPing = new Ping();
             PingReply reply;
             CommonClass cc = new CommonClass();
+
             while (true)
             {
                 try
